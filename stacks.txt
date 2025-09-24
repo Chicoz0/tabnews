@@ -1,0 +1,40 @@
+Version Control and Colab
+	Git
+	Github
+	Brenching strategies - Trunk-based, Feature branch, Git Flow
+
+Programming Languages and Runtime
+	JavaScript
+	Node.js
+	NVM
+	NPM
+	"package.json" and "package-lock.json"
+
+Frameworks Web
+	React - library for building interfaces
+	Next.js - framework React Fullstack
+	React DOM - rendering components in the DOM
+	React Hooks - state and effects management
+	File-Based Routing - file structure-based routing
+
+Database and Persistence
+	f
+
+Containerization and Infrastructure
+	Docker - containerization plataform
+	Docker Compose - multi-conatainer orchestration
+	Docker Hub
+	Dockerfile
+
+Hosting and Deploy
+	Vercel - serverless deploy plataform
+	Environments - development, staging, production
+
+Development tools
+	vscode
+	Linux Terminal
+
+Formats and Standards
+	JSON - JavaScript Object Notation
+	YAML - Yet Another Markup Language
+	
